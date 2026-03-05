@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">HowExpensive</string>
+    <string name="actual_balance">Saldo atual</string>
+    <string name="transactions">Transações</string>
+    <string name="add_transaction">Adicionar transação</string>
+    <string name="description">Descrição</string>
+    <string name="value">Valor</string>
+    <string name="save_transaction">Salvar transação</string>
+    <string name="expense">Despesa</string>
+    <string name="revenue">Receita</string>
+    <string name="back">Voltar</string>
+    <string name="delete_transaction">Deletar transação</string>
 </resources>
